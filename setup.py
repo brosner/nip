@@ -4,6 +4,9 @@ from distutils.core import setup
 setup(
     name = "nip",
     version = "0.1a1",
+    py_modules = [
+        "nip",
+    ],
     scripts = [
         "bin/nip",
     ],
