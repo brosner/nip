@@ -5,6 +5,20 @@ back.
 
 nip is influenced by pip, virtualenv and rip.
 
+Installation
+------------
+
+You can install nip in various ways. There is no official release yet, but
+you can clone the source and within the cloned directory run::
+
+    python setup.py install
+
+You might need ``sudo`` to perform the install.
+
+If you are familiar with ``pip`` you can run::
+
+    pip install git+git://github.com/brosner/nip.git#egg=nip
+
 Environment basics
 ------------------
 
