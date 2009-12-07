@@ -1,0 +1,3 @@
+#!/usr/bin/env python
+import nip, sys
+sys.exit(nip.main())

@@ -1,0 +1,6 @@
+nip is tool written in Python to provide environment isolation and installation
+for Node.js. Installation process is non-existent at this point.
+
+nip is influenced by pip, virtualenv and rip.
+
+More here real soon.
